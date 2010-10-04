@@ -1,0 +1,65 @@
+html {
+    font-family:                "Calibri", "Arial", "Helvetica", sans-serif;
+    font-size:                  10px;
+    background-color:           #BBBBBB;
+}
+
+body{
+    margin:                     0;
+    padding:                    0 0 0 0;
+    height:                     100%;
+}
+
+#backborder{
+    width:                      70%;
+    padding:                    0 1em 0 1em;
+    background-color:           white;
+    height:                     100%;
+    border-right-style:         double;
+    border-left-style:          double;
+    border-color:               #DDDDDD;
+    border-width:               4em;
+    min-height:                 700px;
+}
+
+.block{
+    margin:                     auto;
+}
+
+#logo{
+    font-family:                "Birch STD", "Calibri", "Arial", "Helvetica", sans-serif;
+    text-align:                 left;
+    padding-top:                1px;
+    font-size:                  4em;
+    margin:                     0 auto 0 auto;
+}
+
+#credit{
+    font-family:                "Birch STD", "Calibri", "Arial", "Helvetica", sans-serif;
+    text-align:                 left;
+    font-size:                  1em;
+}
+
+#nav{
+    text-align:                 left;
+    font-size:                  1.5em;
+    margin-bottom:              1em;
+    word-spacing:               2em;
+}
+
+#tekst{
+    width:                      75%;
+    padding:                    2em;
+    font-size:                  1.7em;
+}
+
+a{
+    text-decoration:            none;
+    color:                      #444444;
+}
+
+
+a:hover{
+    text-decoration:            underline;
+    color:                      black;
+}
