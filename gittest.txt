@@ -1,0 +1,12 @@
+GIT TEST
+
+Dersom noen andre ser denne filen, kan dere prøve å legge til noe mer via git =)
+
+------
+---------
+
+DENNE LINJE BURDE DUKKE OPP!!
+
+nye forandringer!!!! yay!
+
+Kat
