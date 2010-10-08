@@ -1,0 +1,17 @@
+.supercontainer{
+		width: 95%;
+		margin: 0 auto;
+		}
+		
+
+.supercontainer #banner{
+	position: relative;
+	width: 100%;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-moz-box-shadow: 8px 8px 8px #CCCCCC;
+	-webkit-box-shadow: 8px 8px 8px #CCCCCC;
+	box-shadow: 8px 8px 8px #CCCCCC;
+
+		}
