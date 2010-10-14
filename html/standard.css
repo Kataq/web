@@ -58,6 +58,19 @@ a{
     color:                      #444444;
 }
 
+#gruppebilder{
+	width: 						80%;
+	
+	padding:					3%;
+	border-style: 				dotted;
+	border-width: 				0.5em;
+	border-color:				#DDDDDD;
+}
+#gruppebilder img{
+	width: 						14em;
+	margin-left:				3%;
+}
+
 
 a:hover{
     text-decoration:            underline;
